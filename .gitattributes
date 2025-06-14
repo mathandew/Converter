@@ -1,5 +1,4 @@
-*.php linguist-detectable=true 
-*.php linguist-detectable=true  
-*.html linguist-detectable=false  
-*.css linguist-detectable=false  
-*.js linguist-detectable=false 
+*.php linguist-language=PHP
+*.css linguist-detectable=false
+*.html linguist-detectable=false
+*.js linguist-detectable=false
